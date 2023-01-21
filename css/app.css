@@ -4,7 +4,7 @@
 
 .purpletext {
   color: purple !important;
-  text-decoration: none;
+  text-decoration: none !important;
 }
 
 .greytext {
